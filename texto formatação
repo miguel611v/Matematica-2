@@ -1,0 +1,19 @@
+<html>
+     <style>
+
+      </style> 
+      <body> 
+        <div style="text-align: left;"> 
+            <p>olha para a direita</p>
+         </div> 
+         <div style="text-align: right;"> 
+            <p>olha pro centro</p> 
+        </div>
+         <div style="text-align: center;"> 
+            <p>olha para o justificado</p> 
+        </div>
+         <div style="text-align: justify;"> 
+            <p>olha ora cima</p>
+         </div> 
+        </body> 
+        </html>
